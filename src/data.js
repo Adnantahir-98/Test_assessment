@@ -1,0 +1,48 @@
+const movies = [
+    {
+        id: 1,
+        title: 'Glamping Resorts Incredible Dome Getaway on a Vineyard Perfect',
+        genre: 'action',
+        release: 2022,
+        img: 'images/forest.jpg',
+        producer: 'John Doe',
+        director: 'Mr Bean',
+        active: false,
+        bidAmount: 2342,
+    },
+    {
+        id: 2,
+        title: 'Off-Grid Glamping Dome with a Wood-Fired',
+        genre: 'comedy',
+        release: 2020,
+        img: 'images/people.jpg',
+        producer: 'Captain America',
+        director: 'Mr Bean',
+        active: false,
+        bidAmount: 2389,
+    },
+    {
+        id: 3,
+        title: 'Fantastic Off-Grid Dome Ideal for a Big Island Camping Experience in Swat Valley',
+        genre: 'action',
+        release: 2022,
+        img: 'images/mountains.jpg',
+        producer: 'Mr William',
+        director: 'The Rockjohnson',
+        active: true,
+        bidAmount: 8378,
+    },
+    {
+        id: 4,
+        title: 'Cozy Dome-Shaped Camping Cabin in the Kalash Valleys, Gilgit',
+        genre: 'comedy',
+        release: 2021,
+        img: 'images/people2.jpg',
+        producer: 'Mr Alaudeen',
+        director: 'Mr Salahudin',
+        active: true,
+        bidAmount: 8376,
+    },
+]
+
+export default movies
